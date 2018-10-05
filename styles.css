@@ -9,8 +9,8 @@
     cursor: pointer;
     z-index: 11;
     position: relative;
-    color: #dbdee6 !important;
-    background-color: #505767 !important;
+    color: #dbdee6;
+    background-color: #505767;
 }
 .open-button-animate .line:first-child {
     width: 20px;
